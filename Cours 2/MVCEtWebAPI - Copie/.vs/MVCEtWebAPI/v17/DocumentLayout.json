@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C62D06A0-C52A-4C56-BB08-870589CBB4D9}|Models\\Models.csproj|c:\\users\\2284873\\downloads\\cours 2\\cours 2\\mvcetwebapi - copie\\models\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62D06A0-C52A-4C56-BB08-870589CBB4D9}|Models\\Models.csproj|solutionrelative:models\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62D06A0-C52A-4C56-BB08-870589CBB4D9}|Models\\Models.csproj|c:\\users\\2284873\\downloads\\cours 2\\cours 2\\mvcetwebapi - copie\\models\\models\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62D06A0-C52A-4C56-BB08-870589CBB4D9}|Models\\Models.csproj|solutionrelative:models\\models\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62D06A0-C52A-4C56-BB08-870589CBB4D9}|Models\\Models.csproj|c:\\users\\2284873\\downloads\\cours 2\\cours 2\\mvcetwebapi - copie\\models\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62D06A0-C52A-4C56-BB08-870589CBB4D9}|Models\\Models.csproj|solutionrelative:models\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDDE525-D328-41F1-B3B2-F1BAE070CC9E}|WebAPI\\WebAPI.csproj|c:\\users\\2284873\\downloads\\cours 2\\cours 2\\mvcetwebapi - copie\\webapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDDE525-D328-41F1-B3B2-F1BAE070CC9E}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDDE525-D328-41F1-B3B2-F1BAE070CC9E}|WebAPI\\WebAPI.csproj|c:\\users\\2284873\\downloads\\cours 2\\cours 2\\mvcetwebapi - copie\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDDE525-D328-41F1-B3B2-F1BAE070CC9E}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD33589-849C-4DA2-AF86-309F333F193C}|MVCEtWebAPI\\MVCEtWebAPI.csproj|c:\\users\\2284873\\downloads\\cours 2\\cours 2\\mvcetwebapi - copie\\mvcetwebapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD33589-849C-4DA2-AF86-309F333F193C}|MVCEtWebAPI\\MVCEtWebAPI.csproj|solutionrelative:mvcetwebapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62D06A0-C52A-4C56-BB08-870589CBB4D9}|Models\\Models.csproj|c:\\users\\2284873\\downloads\\cours 2\\cours 2\\mvcetwebapi - copie\\models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C62D06A0-C52A-4C56-BB08-870589CBB4D9}|Models\\Models.csproj|solutionrelative:models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDDE525-D328-41F1-B3B2-F1BAE070CC9E}|WebAPI\\WebAPI.csproj|c:\\users\\2284873\\downloads\\cours 2\\cours 2\\mvcetwebapi - copie\\webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDDE525-D328-41F1-B3B2-F1BAE070CC9E}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDDE525-D328-41F1-B3B2-F1BAE070CC9E}|WebAPI\\WebAPI.csproj|c:\\users\\2284873\\downloads\\cours 2\\cours 2\\mvcetwebapi - copie\\webapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDDE525-D328-41F1-B3B2-F1BAE070CC9E}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDDE525-D328-41F1-B3B2-F1BAE070CC9E}|WebAPI\\WebAPI.csproj|c:\\users\\2284873\\downloads\\cours 2\\cours 2\\mvcetwebapi - copie\\webapi\\dto\\loginsuccessdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDDE525-D328-41F1-B3B2-F1BAE070CC9E}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dto\\loginsuccessdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDDE525-D328-41F1-B3B2-F1BAE070CC9E}|WebAPI\\WebAPI.csproj|c:\\users\\2284873\\downloads\\cours 2\\cours 2\\mvcetwebapi - copie\\webapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDDE525-D328-41F1-B3B2-F1BAE070CC9E}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDDE525-D328-41F1-B3B2-F1BAE070CC9E}|WebAPI\\WebAPI.csproj|c:\\users\\2284873\\downloads\\cours 2\\cours 2\\mvcetwebapi - copie\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1BDDE525-D328-41F1-B3B2-F1BAE070CC9E}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD33589-849C-4DA2-AF86-309F333F193C}|MVCEtWebAPI\\MVCEtWebAPI.csproj|c:\\users\\2284873\\downloads\\cours 2\\cours 2\\mvcetwebapi - copie\\mvcetwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD33589-849C-4DA2-AF86-309F333F193C}|MVCEtWebAPI\\MVCEtWebAPI.csproj|solutionrelative:mvcetwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDDE525-D328-41F1-B3B2-F1BAE070CC9E}|WebAPI\\WebAPI.csproj|c:\\users\\2284873\\downloads\\cours 2\\cours 2\\mvcetwebapi - copie\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1BDDE525-D328-41F1-B3B2-F1BAE070CC9E}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD33589-849C-4DA2-AF86-309F333F193C}|MVCEtWebAPI\\MVCEtWebAPI.csproj|c:\\users\\2284873\\downloads\\cours 2\\cours 2\\mvcetwebapi - copie\\mvcetwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CD33589-849C-4DA2-AF86-309F333F193C}|MVCEtWebAPI\\MVCEtWebAPI.csproj|solutionrelative:mvcetwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62D06A0-C52A-4C56-BB08-870589CBB4D9}|Models\\Models.csproj|c:\\users\\2284873\\downloads\\cours 2\\cours 2\\mvcetwebapi - copie\\models\\data\\migrations\\20250826200257_initiale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62D06A0-C52A-4C56-BB08-870589CBB4D9}|Models\\Models.csproj|solutionrelative:models\\data\\migrations\\20250826200257_initiale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\Models\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\Models\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T15:10:14.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestData.cs",
+              "DocumentMoniker": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\Models\\Models\\TestData.cs",
+              "RelativeDocumentMoniker": "Models\\Models\\TestData.cs",
+              "ToolTip": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\Models\\Models\\TestData.cs",
+              "RelativeToolTip": "Models\\Models\\TestData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T15:07:11.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginSuccessDTO.cs",
+              "DocumentMoniker": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\WebAPI\\DTO\\LoginSuccessDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\DTO\\LoginSuccessDTO.cs",
+              "ToolTip": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\WebAPI\\DTO\\LoginSuccessDTO.cs",
+              "RelativeToolTip": "WebAPI\\DTO\\LoginSuccessDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:24:35.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\WebAPI\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\WebAPI\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "WebAPI\\DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:24:12.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\WebAPI\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\DTO\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\WebAPI\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "WebAPI\\DTO\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:22:35.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T20:21:21.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-26T20:17:22.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\MVCEtWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MVCEtWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\MVCEtWebAPI\\Program.cs",
+              "RelativeToolTip": "MVCEtWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:10:42.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\MVCEtWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCEtWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\MVCEtWebAPI\\appsettings.json",
+              "RelativeToolTip": "MVCEtWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T20:09:38.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:09:35.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\WebAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\WebAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwDwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:07:36.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\Models\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\Models\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T14:53:10.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\MVCEtWebAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCEtWebAPI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\MVCEtWebAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCEtWebAPI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T14:55:26.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Models.csproj",
+              "DocumentMoniker": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\Models\\Models.csproj",
+              "RelativeDocumentMoniker": "Models\\Models.csproj",
+              "ToolTip": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\Models\\Models.csproj",
+              "RelativeToolTip": "Models\\Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-26T20:01:34.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T21:33:05.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250826200257_initiale.cs",
+              "DocumentMoniker": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\Models\\Data\\Migrations\\20250826200257_initiale.cs",
+              "RelativeDocumentMoniker": "Models\\Data\\Migrations\\20250826200257_initiale.cs",
+              "ToolTip": "C:\\Users\\2284873\\Downloads\\Cours 2\\Cours 2\\MVCEtWebAPI - Copie\\Models\\Data\\Migrations\\20250826200257_initiale.cs",
+              "RelativeToolTip": "Models\\Data\\Migrations\\20250826200257_initiale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:02:57.426Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
