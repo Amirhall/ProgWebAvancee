@@ -109,6 +109,7 @@ namespace signalr.backend.Hubs
             {
                 // TODO: Envoyer le message à cet utilisateur
                 await Clients.User(userId).SendAsync("NewMessage",message);
+                await Clients.User(CurentUser.Id).SendAsync("NewMessage", "[" + CurentUser.Email + "] " + message);
             }
             else if (channelId != 0)
             {
